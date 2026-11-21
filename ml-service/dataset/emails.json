@@ -1,0 +1,282 @@
+[
+  {
+    "subject": "Verify Your Account Now!",
+    "sender": "support@paytm-secure.com",
+    "body": "Dear User, Your account will be suspended in 24 hours. Please verify your account immediately by clicking the link below: https://paytm-account-verify.com/login Regards, Paytm Support Team",
+    "label": "phishing",
+    "category": "Credential Phishing"
+  },
+  {
+    "subject": "Your Invoice from Amazon",
+    "sender": "no-reply@amazon.in",
+    "body": "Thank you for your order #402-837192-1823. Your invoice is attached. You can track your shipment through your Amazon account at https://www.amazon.in/your-orders.",
+    "label": "safe",
+    "category": "E-Commerce"
+  },
+  {
+    "subject": "Update Your Bank Details Immediately",
+    "sender": "info@hdfc-update.com",
+    "body": "Dear Customer, KYC compliance requires immediate update of bank account details to prevent debit freezing. Click here to verify your netbanking: http://hdfc-update.com/kyc-portal",
+    "label": "phishing",
+    "category": "Banking Scam"
+  },
+  {
+    "subject": "Order Confirmation - Flipkart",
+    "sender": "orders@flipkart.com",
+    "body": "Hi Shreya, Your Flipkart order #OD23847291 has been confirmed and packed for delivery. Expected arrival: Friday, Nov 24. Track your package on our official app.",
+    "label": "safe",
+    "category": "E-Commerce"
+  },
+  {
+    "subject": "Security Alert: New Sign-in from Chrome",
+    "sender": "alert@yourbank.com",
+    "body": "A login was detected from Chrome on Windows at 10:14 AM. If this was you, no action is needed. If unauthorized, review your security settings at https://yourbank.com/security.",
+    "label": "safe",
+    "category": "Security Notice"
+  },
+  {
+    "subject": "URGENT: Microsoft 365 Password Expiration Notice",
+    "sender": "admin@office365-security-portal.xyz",
+    "body": "Your Microsoft Office 365 password expires today! Keep your same password by logging in immediately to re-authenticate: http://192.168.1.100/login/ms-auth. Failure will lock your mailbox.",
+    "label": "phishing",
+    "category": "Credential Phishing"
+  },
+  {
+    "subject": "Overdue Invoice INV-8921 - Immediate Payment Required",
+    "sender": "billing@vendor-invoices-corp.top",
+    "body": "Please find attached overdue invoice INV-8921. Remit outstanding funds of $14,250 immediately to avoid legal proceedings. Download and view invoice details: http://bit.ly/invoice8921-pay",
+    "label": "phishing",
+    "category": "Fake Invoice"
+  },
+  {
+    "subject": "Team Sync Meeting Notes & Sprint Planning",
+    "sender": "sarah.connor@cyberdyne-systems.com",
+    "body": "Hi team, Here are the notes from today's sprint retrospective. Next sprint backlog has been prioritized in Jira. Please review the PRs before tomorrow's standup.",
+    "label": "safe",
+    "category": "Internal Communication"
+  },
+  {
+    "subject": "Netflix: Your membership is on hold",
+    "sender": "billing-support@netflix-update-billing.cc",
+    "body": "We were unable to process your monthly payment. Update your credit card details immediately to avoid cancellation: https://netflix-billing-renew.com/portal/login",
+    "label": "phishing",
+    "category": "Account Suspensions"
+  },
+  {
+    "subject": "GitHub: [phishguard/backend] Pull Request #4 Merged",
+    "sender": "notifications@github.com",
+    "body": "Shreya merged commit 9a38f71 into master. All CI checks passed successfully. View pull request at https://github.com/phishguard/backend/pull/4.",
+    "label": "safe",
+    "category": "Development"
+  },
+  {
+    "subject": "PayPal: Unauthorized Transaction of $849.99",
+    "sender": "service@paypal-alerts-center.info",
+    "body": "We detected an unauthorized payment of $849.99 to Apple Store. If you did not make this transaction, cancel it within 1 hour: http://paypal-resolution-center.biz/dispute?id=8392",
+    "label": "phishing",
+    "category": "Financial Fraud"
+  },
+  {
+    "subject": "Weekly Engineering Status Report",
+    "sender": "engineering-digest@techcorp.io",
+    "body": "Here is our weekly system health and deployment report: Uptime 99.98%, API p99 latency 42ms. Great job on completing the performance milestones.",
+    "label": "safe",
+    "category": "Internal Communication"
+  },
+  {
+    "subject": "DHL Express: Delivery Failed - Action Required",
+    "sender": "tracking@dhl-parcel-notification.online",
+    "body": "Your package could not be delivered due to an incorrect shipping address. Click to pay redelivery fee of $2.50 and reschedule: http://dhl-express-redelivery.online/track",
+    "label": "phishing",
+    "category": "Parcel Scam"
+  },
+  {
+    "subject": "Your Google Cloud Platform monthly invoice",
+    "sender": "cloud-billing@google.com",
+    "body": "Your invoice for billing account 01B34-9218 is now available in Google Cloud Console. Total amount charged: $42.18. View breakdown at https://console.cloud.google.com/billing.",
+    "label": "safe",
+    "category": "Billing"
+  },
+  {
+    "subject": "IRS Tax Refund Notification - Claim $1,280.00",
+    "sender": "refunds@irs-tax-refund-portal.club",
+    "body": "You have a pending tax refund of $1,280.00 from the Internal Revenue Service. Submit your SSN, banking details, and debit card PIN to receive your direct deposit: http://irs-portal-refund.club/claim",
+    "label": "phishing",
+    "category": "Financial Fraud"
+  },
+  {
+    "subject": "Q4 Budget Planning & Architecture Review",
+    "sender": "david.director@enterprisecorp.com",
+    "body": "Please find attached our Q4 budget allocations. We will meet on Wednesday at 2 PM in Conference Room B to discuss infrastructure cost optimization.",
+    "label": "safe",
+    "category": "Management"
+  },
+  {
+    "subject": "URGENT TASK: Are you at your desk right now?",
+    "sender": "ceo.office@gmail.com",
+    "body": "I am stuck in an executive meeting and need you to purchase 5 Apple Gift Cards ($100 each) for client bonuses. Email me the redemption codes immediately. Do not call as I cannot speak.",
+    "label": "phishing",
+    "category": "CEO Fraud"
+  },
+  {
+    "subject": "LinkedIn: 3 people viewed your profile this week",
+    "sender": "notifications-noreply@linkedin.com",
+    "body": "See who is looking at your profile. Connect with new colleagues and grow your professional network on LinkedIn: https://www.linkedin.com/me/profile-views.",
+    "label": "safe",
+    "category": "Social Media"
+  },
+  {
+    "subject": "Important Notice: Crypto Wallet Compromised",
+    "sender": "security@metamask-support-auth.vip",
+    "body": "Critical security vulnerability detected. To secure your Ethereum funds, enter your 12-word Secret Recovery Phrase immediately at: https://metamask-security-audit.vip/sync-vault",
+    "label": "phishing",
+    "category": "Crypto Scam"
+  },
+  {
+    "subject": "Slack: New mentions in #security-operations",
+    "sender": "notification@slack.com",
+    "body": "Alex Vance mentioned you in #security-operations: 'Can we review the SIEM rules for anomalous login spikes?' Open Slack to view message.",
+    "label": "safe",
+    "category": "Collaboration"
+  },
+  {
+    "subject": "Action Required: Suspicious Activity Detected on Your Wells Fargo Account",
+    "sender": "fraud-prevention@wellsfargo-verify-security.org",
+    "body": "We have detected unusual card transactions. Your online access has been restricted. Unlock your account now: http://wellsfargo-security-unlock.org/identity",
+    "label": "phishing",
+    "category": "Banking Scam"
+  },
+  {
+    "subject": "Meeting Agenda: PhishGuard AI Detection Engine Demo",
+    "sender": "shreya.yadav@phishguard.cyber",
+    "body": "Hi team, Attached is the demonstration agenda for the AI-powered email phishing detection system including model comparison and live SQL Server integration.",
+    "label": "safe",
+    "category": "Internal Communication"
+  },
+  {
+    "subject": "DocuSign: Please review and sign Employment Agreement",
+    "sender": "docusign-docs@electronic-signatures-review.top",
+    "body": "You have received a document for signature from HR Department. Click here to view and sign via DocuSign: http://docusign-portal-sign.top/doc/4829103",
+    "label": "phishing",
+    "category": "Credential Phishing"
+  },
+  {
+    "subject": "Stripe: Payout of $2,450.00 is on its way",
+    "sender": "support@stripe.com",
+    "body": "A payout of $2,450.00 has been sent to your bank account ending in 4102. It should arrive in 1-2 business days. View transfer details at https://dashboard.stripe.com/payouts.",
+    "label": "safe",
+    "category": "Finance"
+  },
+  {
+    "subject": "Instagram Copyright Violation Notice",
+    "sender": "copyright-appeal@instagram-support-center.xyz",
+    "body": "A copyright infringement report was filed against your account. If you believe this is a mistake, appeal within 24 hours or your account will be permanently deleted: http://instagram-appeal-form.xyz/verify",
+    "label": "phishing",
+    "category": "Social Engineering"
+  },
+  {
+    "subject": "Zoom: Invite to Weekly Architecture Review",
+    "sender": "no-reply@zoom.us",
+    "body": "You have been invited to a Zoom meeting scheduled for Monday, 11:00 AM PST. Topic: Microservices Security Architecture. Join at https://zoom.us/j/9182374619.",
+    "label": "safe",
+    "category": "Collaboration"
+  },
+  {
+    "subject": "Account Suspended: Immediate Action Needed for Amazon Prime",
+    "sender": "support@amazon-prime-billing-service.net",
+    "body": "Your Amazon Prime subscription renewal failed. To continue enjoying Prime benefits and avoid account closure, confirm your payment card: https://amazon-prime-billing-service.net/card-update",
+    "label": "phishing",
+    "category": "Credential Phishing"
+  },
+  {
+    "subject": "Quarterly Security Awareness Training Reminder",
+    "sender": "security-training@phishguard.cyber",
+    "body": "This is a reminder to complete your mandatory Q4 Information Security awareness module by Friday. Access the LMS portal through Single Sign-On.",
+    "label": "safe",
+    "category": "Internal Communication"
+  },
+  {
+    "subject": "Apple ID: Security Verification Code Required",
+    "sender": "security@appleid-verify-alert.com",
+    "body": "Your Apple ID was used to sign in to iCloud from an unknown device. Verify your credentials immediately or your account will be locked: https://appleid-verify-alert.com/auth",
+    "label": "phishing",
+    "category": "Credential Phishing"
+  },
+  {
+    "subject": "Your Spotify Premium Receipt",
+    "sender": "receipts@spotify.com",
+    "body": "Thanks for listening. Here is your receipt for Spotify Premium Individual subscription. Total: $10.99 billed to your card ending in 8912.",
+    "label": "safe",
+    "category": "Receipt"
+  },
+  {
+    "subject": "Chase Bank: Immediate verification required for wire transfer",
+    "sender": "online-security@chase-secure-banking.net",
+    "body": "A pending wire transfer of $4,850.00 requires your verification. If this was not authorized, cancel immediately by verifying your PIN: http://chase-secure-banking.net/wire",
+    "label": "phishing",
+    "category": "Banking Scam"
+  },
+  {
+    "subject": "Your Uber Ride Receipt",
+    "sender": "uber.receipts@uber.com",
+    "body": "Thanks for riding with Uber. Here is your trip breakdown from 5th Ave to Broadway. Total fare: $24.50. You can rate your driver in the Uber app.",
+    "label": "safe",
+    "category": "Receipt"
+  },
+  {
+    "subject": "IT Helpdesk: Emergency Webmail Migration",
+    "sender": "it-desk@university-mail-portal.org",
+    "body": "All staff mailboxes are being migrated to the new cloud cluster. Click here and enter your current username and password to keep your email active: http://university-mail-portal.org/login",
+    "label": "phishing",
+    "category": "Credential Phishing"
+  },
+  {
+    "subject": "Atlassian: New comment on JIRA-4029",
+    "sender": "jira@atlassian.net",
+    "body": "Sarah Connor added a comment on JIRA-4029: 'The rate limiter has been tested under simulated DDoS loads and responds in under 5ms.'",
+    "label": "safe",
+    "category": "Development"
+  },
+  {
+    "subject": "FedEx: Your package delivery has been suspended",
+    "sender": "delivery-notice@fedex-shipment-tracking.site",
+    "body": "Package tracking ID #FX-98218 could not be delivered. An unpaid clearance fee of $1.99 is pending. Pay fee now to prevent return to sender: http://fedex-shipment-tracking.site/pay",
+    "label": "phishing",
+    "category": "Parcel Scam"
+  },
+  {
+    "subject": "AWS: Monthly Billing Notification",
+    "sender": "no-reply-aws@amazon.com",
+    "body": "Your AWS billing statement for October 2026 is ready to view. Total charges for EC2, S3, and RDS: $118.42. View invoice in AWS Cost Explorer.",
+    "label": "safe",
+    "category": "Billing"
+  },
+  {
+    "subject": "Coinbase: Account Restricted Due to Suspicious Withdrawal",
+    "sender": "compliance@coinbase-security-resolution.top",
+    "body": "A withdrawal of 0.85 BTC was initiated from Moscow, Russia. If this was not you, lock your wallet and verify your 2FA seed phrase: http://coinbase-security-resolution.top/lock",
+    "label": "phishing",
+    "category": "Crypto Scam"
+  },
+  {
+    "subject": "Calendar: Design Review with Product Team tomorrow at 3 PM",
+    "sender": "calendar-notification@google.com",
+    "body": "You have an upcoming event: Design Review - PhishGuard UI/UX Light Theme. Attendees: Shreya Yadav, Design Lead, Security Architect.",
+    "label": "safe",
+    "category": "Collaboration"
+  },
+  {
+    "subject": "Dropbox: Shared document 'Confidential Salary Review 2026.pdf'",
+    "sender": "share-notice@dropbox-file-viewer.vip",
+    "body": "HR Department has shared an executive document with you via Dropbox. Click here and sign in with your corporate email password to view: http://dropbox-file-viewer.vip/doc/81923",
+    "label": "phishing",
+    "category": "Credential Phishing"
+  },
+  {
+    "subject": "GitLab: Pipeline #8491 succeeded for main branch",
+    "sender": "gitlab@phishguard.cyber",
+    "body": "Pipeline passed in 2m 14s. 48 unit tests executed, 0 failed, 100% code coverage on core security scanner module.",
+    "label": "safe",
+    "category": "Development"
+  }
+]
