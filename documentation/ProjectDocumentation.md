@@ -9,6 +9,13 @@
 
 The application features a modern light-themed user interface, an Express.js orchestration backend, Microsoft SQL Server database persistence managed via SSMS, and a dedicated Python FastAPI machine learning microservice.
 
+### Production Deployments
+
+- **Frontend Application**: [https://phishguard-beta-fawn.vercel.app](https://phishguard-beta-fawn.vercel.app)
+- **Backend API Gateway**: [https://backend-phishguard.vercel.app](https://backend-phishguard.vercel.app)
+- **AI/ML Threat Engine**: [https://phish-guard-blush.vercel.app](https://phish-guard-blush.vercel.app)
+- **GitHub Repository**: [https://github.com/shreyay1310-svg/PhishGuard](https://github.com/shreyay1310-svg/PhishGuard)
+
 ---
 
 ## 2. Technology Stack & Component Architecture

@@ -1,11 +1,11 @@
 # PhishGuard – AI-Powered Email Phishing Detection System
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-138A4B?style=for-the-badge&logo=vercel&logoColor=white)](https://frontend-ecru-nine-35.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-138A4B?style=for-the-badge&logo=vercel&logoColor=white)](https://phishguard-beta-fawn.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyay1310-svg/PhishGuard)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
-> 🌐 **Live Production App**: **[https://frontend-ecru-nine-35.vercel.app](https://frontend-ecru-nine-35.vercel.app)**  
-> 🛡️ **Instant Demo**: Click **"Admin Demo"** or **"Analyst Demo"** on the [Login Page](https://frontend-ecru-nine-35.vercel.app/login) to explore the full dashboard, scanner, and threat insights immediately.
+> 🌐 **Live Production App**: **[https://phishguard-beta-fawn.vercel.app](https://phishguard-beta-fawn.vercel.app)**  
+> 🛡️ **Instant 1-Click Demo**: Click **"Admin Demo"** or **"Analyst Demo"** on the [Login Page](https://phishguard-beta-fawn.vercel.app/login) to explore the full dashboard, scanner, and threat insights immediately.
 
 ---
 
@@ -15,9 +15,11 @@ PhishGuard is an enterprise cybersecurity platform designed to inspect email con
 
 ## 🚀 Live Demo & Deployment
 
-| Component | Platform | Status | URL |
+| Component | Platform | Status | Production URL |
 | :--- | :--- | :--- | :--- |
-| **Frontend Web App** | **Vercel** | **Live** | **[https://frontend-ecru-nine-35.vercel.app](https://frontend-ecru-nine-35.vercel.app)** |
+| **Frontend Web App** | **Vercel** | **Live** | **[https://phishguard-beta-fawn.vercel.app](https://phishguard-beta-fawn.vercel.app)** |
+| **Backend REST API** | **Vercel** | **Active** | **[https://backend-phishguard.vercel.app](https://backend-phishguard.vercel.app)** |
+| **Python ML Engine** | **Vercel** | **Active** | **[https://phish-guard-blush.vercel.app](https://phish-guard-blush.vercel.app)** |
 | **Source Code** | **GitHub** | **Active** | **[https://github.com/shreyay1310-svg/PhishGuard](https://github.com/shreyay1310-svg/PhishGuard)** |
 
 ---
@@ -61,7 +63,7 @@ PhishGuard/
 From the project root:
 
 ```bash
-# 1. Start the React Frontend (Vite on http://localhost:5173)
+# 1. Start the React Frontend (Vite on http://localhost:3000)
 npm run dev
 
 # 2. In a second terminal, start the Express Backend (Port 5050)
@@ -102,7 +104,7 @@ cd frontend
 npm install
 npm run dev
 ```
-Open `http://localhost:5173` in your web browser.
+Open `http://localhost:3000` in your web browser.
 
 ---
 
@@ -114,15 +116,15 @@ Open `http://localhost:5173` in your web browser.
 | **Security Analyst** | `rahul.analyst@phishguard.cyber` | `Admin@123` | Threat scanning, scan history, threat intelligence reports |
 | **Standard User** | `emma.user@phishguard.cyber` | `Admin@123` | Individual email scans and personal scan history |
 
-*Tip: On the [Login Page](https://frontend-ecru-nine-35.vercel.app/login), you can click **"Admin Demo"** or **"Analyst Demo"** for instant 1-click login.*
+*Tip: On the [Login Page](https://phishguard-beta-fawn.vercel.app/login), you can click **"Admin Demo"** or **"Analyst Demo"** for instant 1-click login.*
 
 ---
 
 ## ☁️ Production Deployment
 
-- **Frontend**: Deployed to Vercel with single-page app routing rewrites (`vercel.json`).
-- **Backend**: Container or Node.js service on Render, Railway, or Azure App Service.
-- **ML Engine**: Python container on Render, Railway, or Azure Container Apps.
+- **Frontend**: Deployed to Vercel at `https://phishguard-beta-fawn.vercel.app` with single-page app routing rewrites (`vercel.json`).
+- **Backend**: Deployed to Vercel at `https://backend-phishguard.vercel.app`.
+- **ML Engine**: Deployed to Vercel at `https://phish-guard-blush.vercel.app`.
 - **Database**: Azure SQL Database or self-hosted Microsoft SQL Server instance.
 
 ---

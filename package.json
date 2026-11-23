@@ -2,6 +2,7 @@
   "name": "phishguard",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://phishguard-beta-fawn.vercel.app",
   "description": "PhishGuard – AI-Powered Email Phishing Detection System",
   "scripts": {
     "dev": "npm --prefix frontend run dev",
